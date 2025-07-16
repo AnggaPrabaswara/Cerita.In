@@ -7,7 +7,7 @@ const konselors = [
   {
     id: '1',
     nama: 'Melda Yogiani',
-    foto: 'foto/Melda.jpg',
+    foto: 'Foto/Melda.jpg',
     minat: 'Self-love, Kecemasan, Persahabatan',
     bio: 'Melda adalah konselor sebaya yang dikenal hangat dan penuh empati. Ia senang menjadi pendengar yang baik dan hadir untuk membantu remaja melewati berbagai tantangan hidup. Bagi Melda, setiap orang berhak merasa didengar, dimengerti, dan meraih kebahagiaan dalam hidupnya.',
     usia: 20,
@@ -16,7 +16,7 @@ const konselors = [
   {
     id: '2',
     nama: 'Angga Prabaswara',
-    foto: 'foto/Angga.jpg',
+    foto: 'Foto/Angga.jpg',
     minat: 'Motivasi, Keluarga, Percaya Diri',
     bio: 'Angga aktif di forum GenRe Buleleng dan senang berbagi tips seputar membangun kepercayaan diri. Ia dikenal sebagai pribadi yang ramah, mudah diajak bicara, dan selalu berusaha menjadi pendengar yang baik. Angga siap menjadi teman cerita yang suportif, hadir untuk mendengarkan tanpa menghakimi dan menemani dengan tulus.',
     usia: 20,
@@ -25,7 +25,7 @@ const konselors = [
   {
     id: '3',
     nama: 'Listia Prasetya',
-    foto: 'foto/Listya.jpg',
+    foto: 'Foto/Listya.jpg',
     minat: 'Overthinking, Akademik, Hubungan',
     bio: 'Listia memahami betul tantangan yang sering dihadapi remaja, mulai dari tekanan akademik hingga masalah dalam hubungan pertemanan atau asmara. Ia ingin menjadi tempat bercerita yang nyaman dan membantu remaja menemukan solusi yang sehat, positif, dan sesuai dengan diri mereka sendiri.',
     usia: 19,
@@ -38,21 +38,21 @@ const artikels = [
   {
     id: 'a1',
     judul: '6 Cara Mengatasi Stres yang Mudah dan Efektif',
-    gambar: 'foto/Mengelola Stress.jpeg',
+    gambar: 'Foto/Mengelola Stress.jpeg',
     deskripsi: 'Stres adalah hal yang wajar, tapi bisa dikelola dengan langkah sederhana. Yuk, simak tipsnya!',
     link: 'https://www.alodokter.com/ternyata-tidak-sulit-mengatasi-stres'
   },
   {
     id: 'a2',
     judul: 'Mengenal Self-Love, Cara Mencintai Diri agar Lebih Bahagia',
-    gambar: 'foto/Self Love.jpeg',
+    gambar: 'Foto/Self Love.jpeg',
     deskripsi: 'Self-love penting untuk kesehatan mental. Bagaimana cara memulainya? Baca selengkapnya di sini.',
     link: 'https://www.siloamhospitals.com/informasi-siloam/artikel/apa-itu-self-love'
   },
   {
     id: 'a3',
     judul: 'Mengenal Overthinking, Memahami Dampak, dan Cara Mengatasinya',
-    gambar: 'foto/OverThinking.jpeg',
+    gambar: 'Foto/OverThinking.jpeg',
     deskripsi: 'Overthinking sering dialami remaja. Berikut tips sederhana untuk mengatasinya.',
     link: 'https://www.idionline.org/article/mengenal-overthinking-memahami-dampak-dan-cara-mengatasinya'
   }
