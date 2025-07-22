@@ -55,7 +55,21 @@ const artikels = [
     gambar: 'Foto/OverThinking.jpeg',
     deskripsi: 'Overthinking sering dialami remaja. Berikut tips sederhana untuk mengatasinya.',
     link: 'https://www.idionline.org/article/mengenal-overthinking-memahami-dampak-dan-cara-mengatasinya'
-  }
+  },
+  {
+    id: 'a4',
+    judul: '10 Cara Efektif Menjaga Kesehatan Mental Agar Tetap Bahagia',
+    gambar: 'Foto/Mental.jpg',
+    deskripsi: 'Kesehatan mental yang baik merupakan aspek utama yang dibutuhkan untuk mendukung kesejahteraan hidup kita.',
+    link: 'https://ayosehat.kemkes.go.id/cara-menjaga-kesehatan-mental',
+  },  
+    {
+    id: 'a5',
+    judul: 'Pentingnya Mengelola Emosi, Baik Untuk Diri Sendiri Ataupun Berkelompok',
+    gambar: 'Foto/Emosi.jpg',
+    deskripsi: 'Ada beberapa hal yang dapat dilakukan dalam mengelola emosi dan amarah diri yang tepat',
+    link: 'https://telemed.ihc.id/artikel-detail-534-Pentingnya-Mengelola-Emosi,-Baik-Untuk-Diri-Sendiri-Ataupun-Berkelompok.html',
+  }, 
 ];
 
 // Data quotes motivasi
